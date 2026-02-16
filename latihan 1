@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar Membuat Website Dengan Bahasa Html</title>
+    <style>
+        body {
+            background-color: pink;
+            color: green;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: red;
+        }
+        h6 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>WEBKU YANG PERTAMA</h1>
+    <h6>Belajar Bareng XI M 2 SMAN 1 KALIANDA</h6>
+    
+    <p>Lama sudah aku merasa,</p>
+    <p>Kau tak pernah menyimpan cinta.</p>
+    <p>Pada diriku, pedih hatiku ini.</p>
+    <p>Slalu ku coba, menutup mata.</p>
+    <p>Berharap nanti kau beri hati.</p>
+    <p>Namun ternyata tak jua sirna.</p>
+    <p>Cinta mu padanya tetap kau jaga</p>
+</body>
+</html>
